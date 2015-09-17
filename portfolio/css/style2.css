@@ -65,7 +65,7 @@ h5 {
 .between {
 	height: 100px;
 	}
-    
+
 .footer {
 	text-align: center;
     height: 10px;
@@ -77,6 +77,12 @@ h5 {
     }
 
   	div p {
+    color: #A4A4A4;
   	margin-top: 30px;
   	font-size: 10px;
   	}
+
+
+body {
+    background: url("http://www.noupe.com/wp-content/uploads/2009/10/pattern-13.jpg");
+}
