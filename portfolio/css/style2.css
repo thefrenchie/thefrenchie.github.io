@@ -82,6 +82,9 @@ h5 {
   	font-size: 10px;
   	}
 
+a {
+    text-decoration: none;
+}
 
 body {
     background: url("http://www.noupe.com/wp-content/uploads/2009/10/pattern-13.jpg");
