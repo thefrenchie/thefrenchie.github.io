@@ -1,0 +1,114 @@
+*{
+    font-family: 'PT Sans', sans-serif;
+}
+
+
+.header {
+	color: white;
+	text-align: center;
+    height: 25px;
+	width: 855px;
+    border: 2px #000000;
+    border-radius: 5px;
+    background-color: orange;
+    position: fixed;
+    z-index: 1;
+    }
+    
+.left {
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 30px;
+    padding-left: 9px;
+    height: 590px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 50px;
+    background-color: #A9E2F3;
+    float: left;
+    }
+
+    .contact{
+        font-family: garamond;
+    	font-size: 15px;
+    	color: black;
+    	text-align: center;
+
+    }
+
+
+
+    .portait {
+        width: 130px
+    }
+
+.body {
+    text-align: left;
+    margin-top: 80px;
+    margin-left: 180px;
+    padding: 10px 30px 30px 20px;
+
+    height: 1500px;
+	width: 600px;
+    border-radius: 5px;
+    background-color: #FAFAFA;
+    }
+
+    hr{
+        margin margin-top: -60;
+        color: black;
+        opacity: 0.6;
+    }
+
+    .inside-left{
+        margin: 25px;
+        border-radius: 5px;
+        float: left;
+
+        background-color: #6E6E6E;
+        /*problem here so 2floats not aligned
+        text not included either*/
+    }
+
+    .inside-body {
+        float: right;
+        background: url(http://cfaes.osu.edu/brand/sites/ctbrand/files/site-library/site-documents/art/backgrounds/osu/buckeye_leaf_diamond_graywhite.jpg);
+    	width: 350px;
+    	padding: 20px;
+    	margin: 20px;
+    	border-radius: 10px;
+        position: 100px;
+    }
+
+h5 {
+    font-family: garamond;
+    font-size: 15px;
+    }
+
+.between {
+	height: 100px;
+	}
+
+.footer {
+	text-align: center;
+    height: 20px;
+	width: 800px;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: #A9E2F3;
+    clear: both;
+    }
+
+    .ending{
+    color: #A4A4A4;
+    margin-top: 30px;
+    font-size: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    background: url(http://cfaes.osu.edu/brand/sites/ctbrand/files/site-library/site-documents/art/backgrounds/osu/buckeye_leaf_diamond_graywhite.jpg);
+}
